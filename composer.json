@@ -3,12 +3,19 @@
     "description": "A web application to help people in Texas find useful voter information including their polling place, election days, and times they can vote.",
     "license": "MIT",
     "type": "project",
+    "homepage": "http://texasvot.es",
     "authors": [
       {
         "name": "Andrew Douglass",
-        "email": "andrew@darkwatercreative.com"
+        "email": "andrew@darkwatercreative.com",
+        "homepage": "http://darkwatercreative.com",
+        "role": "Developer"
       }
     ],
+    "support": {
+        "source": "https://github.com/ardouglass/texasvotes",
+        "issues": "https://github.com/ardouglass/texasvotes/issues"
+    },
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*"
