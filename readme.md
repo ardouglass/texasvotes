@@ -16,6 +16,8 @@ Thank you for considering contributing. There are many ways you can help.
 
 Want to contribute? This will get you going locally. You can either set up your own environment, or just use Vagrant to make it super easy. If you've already used Vagrant and/or Laravel before, you can skip ahead a bit.
 
+This guide is for OSX or Linux for now. We can add Windows instructions if there's a need.
+
 ### Meta Setup
 
   1.  If you don't have Vagrant already installed, go get it here: [vagrantup.com/docs/installation](https://www.vagrantup.com/docs/installation/)
