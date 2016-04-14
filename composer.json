@@ -7,14 +7,14 @@
     "authors": [
       {
         "name": "Andrew Douglass",
-        "email": "andrew@darkwatercreative.com",
-        "homepage": "http://darkwatercreative.com",
+        "email": "andrew@dou.glass",
+        "homepage": "http://dou.glass",
         "role": "Developer"
       }
     ],
     "support": {
-        "source": "https://github.com/ardouglass/texasvotes",
-        "issues": "https://github.com/ardouglass/texasvotes/issues"
+        "source": "https://github.com/sketch-city/texasvotes",
+        "issues": "https://github.com/sketch-city/texasvotes/issues"
     },
     "require": {
         "php": ">=5.5.9",
